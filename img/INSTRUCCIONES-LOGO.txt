@@ -1,0 +1,7 @@
+LOGO PERSONALIZABLE - ILUMINACIONES ESCORPIO
+
+1. Coloca tu imagen de logo en esta carpeta (img).
+2. Nombra el archivo exactamente: logo.png
+3. Puedes usar PNG con fondo transparente o JPG.
+4. No modifiques el HTML ni el CSS: el marco/borde original se conserva automáticamente.
+5. Si tu imagen tiene otro nombre o formato, cambia src="img/logo.png" en index.html.
